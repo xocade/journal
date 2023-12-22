@@ -16,3 +16,5 @@ A nice notebook for nice notes.
 [Python](langues/programmation/python.md) 
 [Java](langues/programmation/java.md) 
 
+[Computer Science](bscs/uopeople/cs.md) 
+
