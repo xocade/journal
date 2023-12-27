@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "fb81194cb52f7f0e",
+        "id": "c27c086729f0a93c",
         "type": "tabs",
         "children": [
           {
-            "id": "18eaa798d30a5d99",
+            "id": "bf9b31246425ec6c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "outils/pi.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "outils/pi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "outils/pi.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "outils/pi.md"
               }
             }
           }
@@ -148,10 +148,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "18eaa798d30a5d99",
+  "active": "bf9b31246425ec6c",
   "lastOpenFiles": [
-    "outils/sublime-text.md",
     "README.md",
+    "outils/pi.md",
+    "bscs/uopeople/cs.md",
+    "outils/sublime-text.md",
     "outils/git.md",
     "outils"
   ]

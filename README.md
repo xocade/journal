@@ -6,6 +6,7 @@ A nice notebook for nice notes.
 [Sublime Text](outils/sublime-text.md) 
 [Git](/outils/git.md) 
 [Terminals](outils/dispositifs.md) 
+[Raspberry Pi](outils/pi.md) 
   
 
 [Markdown](langues/web/md.md) 
