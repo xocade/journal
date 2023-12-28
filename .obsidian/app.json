@@ -2,5 +2,6 @@
   "alwaysUpdateLinks": true,
   "trashOption": "none",
   "useMarkdownLinks": true,
-  "attachmentFolderPath": "./fichiers"
+  "attachmentFolderPath": "./fichiers",
+  "newFileLocation": "current"
 }

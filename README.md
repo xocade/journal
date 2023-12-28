@@ -7,6 +7,7 @@ A nice notebook for nice notes.
 [Git](/outils/git.md) 
 [Terminals](outils/dispositifs.md) 
 [Raspberry Pi](outils/pi.md) 
+[iShell](outils/ishell.md)
   
 
 [Markdown](langues/web/md.md) 
