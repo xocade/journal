@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "c27c086729f0a93c",
+        "id": "d160d05676d91f7a",
         "type": "tabs",
         "children": [
           {
-            "id": "bf9b31246425ec6c",
+            "id": "31a448f847878840",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "outils/pi.md",
+                "file": "langues/c.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "outils/pi.md",
+                "file": "langues/c.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "outils/pi.md",
+                "file": "langues/c.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "outils/pi.md"
+                "file": "langues/c.md"
               }
             }
           }
@@ -148,13 +148,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bf9b31246425ec6c",
+  "active": "31a448f847878840",
   "lastOpenFiles": [
     "README.md",
+    "langues/c.md",
+    "langues/web/md.md",
+    "langues/web",
+    "langues",
+    "outils/git.md",
     "outils/pi.md",
     "bscs/uopeople/cs.md",
     "outils/sublime-text.md",
-    "outils/git.md",
     "outils"
   ]
 }
